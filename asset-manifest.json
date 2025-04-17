@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VisionSnapWebpage/static/css/main.d1175bdd.css",
+    "main.js": "/VisionSnapWebpage/static/js/main.7c75cd91.js",
+    "index.html": "/VisionSnapWebpage/index.html",
+    "main.d1175bdd.css.map": "/VisionSnapWebpage/static/css/main.d1175bdd.css.map",
+    "main.7c75cd91.js.map": "/VisionSnapWebpage/static/js/main.7c75cd91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1175bdd.css",
+    "static/js/main.7c75cd91.js"
+  ]
+}
